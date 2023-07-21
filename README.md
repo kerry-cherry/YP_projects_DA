@@ -1,5 +1,9 @@
 # portfolio
-Here you can see projects, that i completed on my own during my studies on Yandex.Practicum platform.
-I'll be glad to discuss about details of these, and answer your questions.
- Название проекта  | Описание проекта  | Стек |
- 
+Здесь вы можете ознакомиться с проектами, которые я выполняла самостоятельно в течение учебы на платформе Яндекс.Практикум
+Буду рада обсудить детали проекта и ответить на Ваши вопросы.
+
+ Название проекта  | Описание проекта  | Направление деятельности | Стек |
+ ______________________________________________
+ Анализ убытков приложения ProcrastinatePRO+ (https://github.com/kerry-cherry/portfolio/blob/master/YP.%20Business-metrics%20analyse/YP.%20Business-metrics%20analyse.ipynb) | Проведен анализ данных от ProcrastinatePRO+.
+Рассчитаны различные метрики, использован когортный анализ: LTV, CAC, Retention rate, DAU, WAU, MAU и т.д. Использованы уже написанные ранее функции расчёта метрик. Сделаны правильные выводы по полученным данным. | Маркетинговый анализ, продуктовый анализ | python, seaborn, matlolib, когортный анализ, unit-экономика
+
